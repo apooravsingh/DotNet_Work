@@ -1,0 +1,14 @@
+/Users/apooravsingh/Downloads/Web-Dev-Tools-Group-Assignments-master 3/Assignment4/Assignment4/bin/Debug/netcoreapp2.1/Assignment4.deps.json
+/Users/apooravsingh/Downloads/Web-Dev-Tools-Group-Assignments-master 3/Assignment4/Assignment4/bin/Debug/netcoreapp2.1/Assignment4.runtimeconfig.json
+/Users/apooravsingh/Downloads/Web-Dev-Tools-Group-Assignments-master 3/Assignment4/Assignment4/bin/Debug/netcoreapp2.1/Assignment4.runtimeconfig.dev.json
+/Users/apooravsingh/Downloads/Web-Dev-Tools-Group-Assignments-master 3/Assignment4/Assignment4/bin/Debug/netcoreapp2.1/Assignment4.dll
+/Users/apooravsingh/Downloads/Web-Dev-Tools-Group-Assignments-master 3/Assignment4/Assignment4/bin/Debug/netcoreapp2.1/Assignment4.pdb
+/Users/apooravsingh/Downloads/Web-Dev-Tools-Group-Assignments-master 3/Assignment4/Assignment4/obj/Debug/netcoreapp2.1/Assignment4.csprojAssemblyReference.cache
+/Users/apooravsingh/Downloads/Web-Dev-Tools-Group-Assignments-master 3/Assignment4/Assignment4/obj/Debug/netcoreapp2.1/Assignment4.csproj.CoreCompileInputs.cache
+/Users/apooravsingh/Downloads/Web-Dev-Tools-Group-Assignments-master 3/Assignment4/Assignment4/obj/Debug/netcoreapp2.1/Assignment4.RazorAssemblyInfo.cache
+/Users/apooravsingh/Downloads/Web-Dev-Tools-Group-Assignments-master 3/Assignment4/Assignment4/obj/Debug/netcoreapp2.1/Assignment4.RazorAssemblyInfo.cs
+/Users/apooravsingh/Downloads/Web-Dev-Tools-Group-Assignments-master 3/Assignment4/Assignment4/obj/Debug/netcoreapp2.1/Assignment4.AssemblyInfoInputs.cache
+/Users/apooravsingh/Downloads/Web-Dev-Tools-Group-Assignments-master 3/Assignment4/Assignment4/obj/Debug/netcoreapp2.1/Assignment4.AssemblyInfo.cs
+/Users/apooravsingh/Downloads/Web-Dev-Tools-Group-Assignments-master 3/Assignment4/Assignment4/obj/Debug/netcoreapp2.1/Assignment4.RazorTargetAssemblyInfo.cache
+/Users/apooravsingh/Downloads/Web-Dev-Tools-Group-Assignments-master 3/Assignment4/Assignment4/obj/Debug/netcoreapp2.1/Assignment4.dll
+/Users/apooravsingh/Downloads/Web-Dev-Tools-Group-Assignments-master 3/Assignment4/Assignment4/obj/Debug/netcoreapp2.1/Assignment4.pdb
