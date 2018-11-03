@@ -1,0 +1,23 @@
+<html>
+  <body>
+    <div>
+      <h2 *ngIf="!produtInfo || produtInfo.id === undefined">Add record</h2>
+      <h2 *ngIf="produtInfo && produtInfo.id !== undefined">Update record (ID: )</h2>
+      <form>
+        <div class="form-group">
+          <label>ID </label>
+          <input type="number" id="id-input" [(ngModel)]="productInfo.id" class="form-control" [ngModelOptions]="{standalone: true}"/>
+        </div>
+        <div class="form-group">
+          <label>Product name:</label>
+          <input type="text" id="name-input" [(ngModel)]="productInfo.name" class="form-control" [ngModelOptions]="{standalone: true}"/>
+        </div>
+        <div class="form-group">
+          <label for="availability-input">Availability</label>
+          <input type="checkbox" id="availability-input" [(ngModel)]="productInfo.isAvailable" class="form-control" [ngModelOptions]="{standalone: true}"/>
+        </div>
+        <button type="button" class="btn btn-primary" (click)="addOrUpdateProductRecord($event);">Save</button>
+      </form>
+    </div>
+  </body>
+</html>

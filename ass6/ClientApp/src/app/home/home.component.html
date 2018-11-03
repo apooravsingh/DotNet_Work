@@ -1,0 +1,9 @@
+
+<div class="row">
+  <div class="col-md-4">
+    <app-add-or-update-product (productCreated)="createOrUpdateProduct($event)" [productInfo]="currentProduct"></app-add-or-update-product>
+  </div>
+  <div class="col-md-8">
+    <app-grid-product [productData]="productData" (editClicked)="editClicked($event)" (newClicked)="newClicked()" (recordDeleted)="deleteClicked($event)"></app-grid-product>
+  </div>
+</div>
